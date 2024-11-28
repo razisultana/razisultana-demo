@@ -1,4 +1,4 @@
 # razisultana-demo
-this is my first Git hub repository.
+This is my first Git Repository.
 <br>
 Author - Razia sultana
